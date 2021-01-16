@@ -1,12 +1,22 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1610786127,1610786127,"Migrated from /etc/pihole/adlists.list",1610788016
-2,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt,1,1610787967,1610787967,,1610788016
-3,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1610787967,1610787967,,1610788017
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1610786127,1610786127,"Migrated from /etc/pihole/adlists.list",1610788205
+2,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt,1,1610787967,1610787967,,1610788206
+3,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1610787967,1610787967,,1610788206
 4,https://v.firebog.net/hosts/static/w3kbl.txt,1,1610787967,1610787967,,1610788018
-5,https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt,1,1610787967,1610787967,,1610788018
+5,https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt,1,1610787967,1610787967,,1610788208
 6,https://someonewhocares.org/hosts/zero/hosts,1,1610787967,1610787967,,1610788023
-7,https://raw.githubusercontent.com/vokins/yhosts/master/hosts,1,1610787967,1610787967,,1610788024
+7,https://raw.githubusercontent.com/vokins/yhosts/master/hosts,1,1610787967,1610787967,,1610788210
 8,https://winhelp2002.mvps.org/hosts.txt,1,1610787967,1610787967,,1610788025
 9,https://v.firebog.net/hosts/neohostsbasic.txt,1,1610787967,1610787967,,1610788026
-10,https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt,1,1610787967,1610787967,,1610788028
+10,https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt,1,1610787967,1610787967,,1610788213
 11,https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt,1,1610787967,1610787967,,1610788028
+12,https://adaway.org/hosts.txt,1,1610788191,1610788191,,1610788214
+13,https://v.firebog.net/hosts/AdguardDNS.txt,1,1610788191,1610788191,,1610788214
+14,https://v.firebog.net/hosts/Admiral.txt,1,1610788191,1610788191,,1610788214
+15,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1610788191,1610788191,,1610788215
+16,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1610788191,1610788191,,1610788217
+17,https://v.firebog.net/hosts/Easylist.txt,1,1610788191,1610788191,,1610788217
+18,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1610788191,1610788191,,1610788219
+19,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1610788191,1610788191,,1610788220
+20,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1610788191,1610788191,,1610788222
+21,https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts,1,1610788191,1610788191,,1610788222
