@@ -8,3 +8,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 7,0,g.live.com,1,1610949281,1610949281,"Added from Query Log"
 9,0,assets.adobedtm.com,1,1611577914,1611577914,"Added from Query Log"
 10,0,beacons.gcp.gvt2.com,1,1611578154,1611578154,"Added from Query Log"
+12,0,files.slack.com,1,1612182001,1612182001,"Added from Query Log"
