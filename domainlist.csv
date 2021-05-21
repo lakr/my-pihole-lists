@@ -9,3 +9,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 9,0,assets.adobedtm.com,1,1611577914,1611577914,"Added from Query Log"
 10,0,beacons.gcp.gvt2.com,1,1611578154,1611578154,"Added from Query Log"
 12,0,files.slack.com,1,1612182001,1612182001,"Added from Query Log"
+14,0,gs-loc.apple.com,1,1621605242,1621605242,"Added from Query Log"
+17,0,self.events.data.microsoft.com,1,1621605272,1621605272,"Added from Query Log"
+19,0,app.pendo.io,1,1621605503,1621605503,"Added from Query Log"
+21,0,cdn.pendo.io,1,1621605528,1621605528,"Added from Query Log"
