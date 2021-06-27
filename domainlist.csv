@@ -2,3 +2,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 13,0,static.klaviyo.com,1,1624216458,1624216458,"Added from Query Log"
 14,0,static-forms.klaviyo.com,1,1624216482,1624216482,"Added from Query Log"
 15,0,ethermine.org,1,1624617425,1624617425,"Added from Query Log"
+16,0,incoming.telemetry.mozilla.org,1,1624801399,1624801399,"Added from Query Log"
